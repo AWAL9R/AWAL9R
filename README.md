@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awal9r&label=Profile%20views&color=0e75b6&style=flat" alt="awal9r" /> </p>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=awal9r" alt="awal9r" /> </p>
 
 - 🌱 I’m currently learning **TypeScript**
 
@@ -33,8 +32,3 @@
 
 ![My Others](https://go-skill-icons.vercel.app/api/icons?perline=3&i=firebase,git,arduino,)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awal9r&show_icons=true&locale=en&layout=compact&theme=radical" alt="awal9r" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awal9r&show_icons=true&locale=en&theme=radical" alt="awal9r" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awal9r&&theme=radical" alt="awal9r" /></p>
